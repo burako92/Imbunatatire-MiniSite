@@ -1,0 +1,17 @@
+section {
+    display: inline-block;
+    width: 600px;
+
+}
+aside {
+display: inline-block;
+width: 600px;
+vertical-align: top;
+}
+body{
+    width: 1200px;
+    height: 900px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
